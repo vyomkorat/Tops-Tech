@@ -1,4 +1,6 @@
 create database school;
+use school;
+
 
 -- Create the STUDENT table
 CREATE TABLE student (
